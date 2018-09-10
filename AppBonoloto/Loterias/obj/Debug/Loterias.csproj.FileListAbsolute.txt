@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\Loterias\bin\Debug\Loterias.dll
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\Loterias\bin\Debug\Loterias.pdb
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\Loterias\obj\Debug\Loterias.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\Loterias\obj\Debug\Loterias.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\Loterias\obj\Debug\Loterias.dll
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\Loterias\obj\Debug\Loterias.pdb
