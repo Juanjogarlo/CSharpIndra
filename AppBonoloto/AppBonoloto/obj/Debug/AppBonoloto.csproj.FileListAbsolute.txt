@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\AppBonoloto\bin\Debug\AppBonoloto.exe.config
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\AppBonoloto\bin\Debug\AppBonoloto.exe
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\AppBonoloto\bin\Debug\AppBonoloto.pdb
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\AppBonoloto\obj\Debug\AppBonoloto.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\AppBonoloto\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\AppBonoloto\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\AppBonoloto\obj\Debug\AppBonoloto_MarkupCompile.cache
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\AppBonoloto\obj\Debug\AppBonoloto_MarkupCompile.lref
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\AppBonoloto\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\AppBonoloto\obj\Debug\AppBonoloto.g.resources
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\AppBonoloto\obj\Debug\AppBonoloto.Properties.Resources.resources
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\AppBonoloto\obj\Debug\AppBonoloto.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\AppBonoloto\obj\Debug\AppBonoloto.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\AppBonoloto\obj\Debug\AppBonoloto.exe
+C:\Users\Admin\Desktop\gitlab\vsCSharp\AppBonoloto\AppBonoloto\obj\Debug\AppBonoloto.pdb
